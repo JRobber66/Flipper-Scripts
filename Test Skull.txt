@@ -1,0 +1,103 @@
+DELAY 1000
+REM Open Notepad
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 1000
+
+REM Paste the ASCII art
+STRING                                         ..
+ENTER
+STRING                                        .&@
+ENTER
+STRING                                        .&&    .  .
+ENTER
+STRING                                        .&&   .....
+ENTER
+STRING                                        .&&   &&%&&
+ENTER
+STRING                                              &&%&&
+ENTER
+STRING                                                    .
+ENTER
+STRING                                                .....
+ENTER
+STRING                                   *%%%%.       &@&&&   %%,%%%%.  ..
+ENTER
+STRING                                 %%/%%%%. .     &@&  (%%%%,%%%%.%%&@#..
+ENTER
+STRING                              (#%%#*#%%#...     %&&  (%%%%,%%#%.##&&#&&
+ENTER
+STRING       ...                  %%(%%##*#%%#,&&.       %%/%%%%*%%%%.%%   @@
+ENTER
+STRING       ##(                  //*//(/,/(((,((#(*     //*/((/,/(((.(/((*    ##(##
+ENTER
+STRING       ///                  **,*,**,,*,*.**,*.*******,****.****.,(**,//    //*
+ENTER
+STRING     *****                  **,****.*,*,.****.*,,*,,*,****.****,****.**    **
+ENTER
+STRING      .  .                  .. . .... ..... . .. . .. . .... ..,.. . ..    .
+ENTER
+STRING                            *******,****.****.**,*,**,,***.****.**,*,**           .
+ENTER
+STRING                           ./*,*//*,////.////,//,*,**,**//.**//.*/**,*/           ////,
+ENTER
+STRING          ..              . ((/((((        ((,((/(//(*((        ((//*((          .####,
+ENTER
+STRING          &&             @@(%&                %%#%%%%             %%#%%           &&&
+ENTER
+STRING          &&             &&#&&      FUCK      %%####%     YOU     ##/##           &&&
+ENTER
+STRING          @&                %#(%%             %##%#%%             #%(%%          &&&
+ENTER
+STRING          @&                %%(%%          %%*%%#%#%%(%%          %%/%%          &&&
+ENTER
+STRING                            %%(#%#%        %%*       /%%       .%%#%(##        &&&
+ENTER
+STRING       ###  *%%               (%%##*#%%%,%###*       (%%%%*%%%%,%#%%(          @&&
+ENTER
+STRING       #%#  *%%%%             (%#%%*%#%%,%#%&*  ###  (%%%%,#%%%,#%##(          @&&
+ENTER
+STRING     #%#%#  /%%%%*%%                  #%,%%%#*%%(%#%%(%%%%,%#                  @&&
+ENTER
+STRING     #####  /%%%%,%#                  %%,%%%%*%%#%#%#/%#%%*#%               @&&
+ENTER
+STRING       #%(%#*#%##*%% .                  .%#%%*%%###%%(%%%%.               @&&&
+ENTER
+STRING                 ,%%..   %%(%%        %#.  %#*  #%#  (%%  ,%%        #%%%(%%          &&&
+ENTER
+STRING                    &&*  %%(%#(%%%#                             #%%%(%%#       &&&
+ENTER
+STRING                    &&*..   %%(%%%%*#%%%.                 ,%%%%.%%%%(#%        @&&&
+ENTER
+STRING                    &&*&&        %%*%%%#,%#%%*       (%%%%,%#%#.%#           @&&&
+ENTER
+STRING                                      %%,%%%%*%%        %%,%%                 @&&&
+ENTER
+STRING                                        .%%%%,%%#%##
+ENTER
+STRING                .                             %%#%#%#(%%%#                @&&&
+ENTER
+STRING               .. ...              *%%%%,%#     #%###(%&%%,#%%%.           @&&&
+ENTER
+STRING               &&*&&..        (#%%%*#%%%,%#%#*       (%%%#,%%%%.%%%%/       @&&&
+ENTER
+STRING                 *&&&&*  %%/%%(%%#%*#%%%,%%             %%*##%%,%%%#/%%#%%  @&&&
+ENTER
+STRING               #%.       %%/#%(%%%%*%#%                       %#.%%#%/%%#%%   @&&&
+ENTER
+STRING            /#%%%,%%     %%(%%(%%                                 %%/%##%%#%    @&&&
+ENTER
+STRING            /%%%%*%%%%*%%#%(%%                                       %%#%%#%/%%%% @&&&
+ENTER
+STRING               ##*%%%#*#%                                                 #%/%%%%.%%  @&&&
+ENTER
+STRING            /%%#%*%%%%*%%                                                 ##(%#%%.%%#%,@&&
+ENTER
+STRING            *%%%%*%%%#,                                                     (%%#% %%%%,@&&
+ENTER
+STRING               ##*%%                                                           #% #%  @&&&
+ENTER
+ENTER
+STRING                                          HELLO DANIEL!
