@@ -1,0 +1,16 @@
+DELAY 3000
+REM Open Command Prompt
+WINDOWS r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 1000
+
+REM Run systeminfo and ipconfig, redirecting output to a text file on the Desktop
+STRING systeminfo > %USERPROFILE%\\Desktop\\System_and_Network_Info.txt && ipconfig >> %USERPROFILE%\\Desktop\\System_and_Network_Info.txt
+ENTER
+
+REM Close Command Prompt
+DELAY 2000
+STRING exit
+ENTER
